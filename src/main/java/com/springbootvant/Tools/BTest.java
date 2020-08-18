@@ -10,6 +10,7 @@ import java.io.InputStream;
 
 public class BTest {
 
+
     public static void main(String[] args) {
         doc2pdf("/Users/wangyuebang/Documents/test.doc","/Users/wangyuebang/Documents/1.pdf");
     }
